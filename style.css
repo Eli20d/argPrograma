@@ -1,0 +1,43 @@
+h1 {
+    color: #C0254A;
+    font-family: 'Poiret One';
+    line-height: 80px;
+    font-weight: 400;
+    font-size: 100px;
+    
+}
+
+#img-avatar {
+    border: 13px solid #FFE6E6;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);  
+    position: center; 
+    margin: 10px 0px
+}
+
+#img-banner {
+    position: relative;
+    
+}
+
+.card-body {
+    background-image: url(imagenes/banner-avatar.png);
+    position: relative;
+    background-size: cover ;
+    background-repeat: no-repeat;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+#desplegables {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: #C0254A;
+}
